@@ -1,1 +1,3 @@
-document.getElementById("title").innerHTML = "Pagina di salvatore barbaro";
+document.getElementById("title").innerHTML = 
+"Pagina di salvatore barbaro"
+;
